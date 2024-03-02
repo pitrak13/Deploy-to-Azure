@@ -2,10 +2,6 @@ from flask import Flask, request
 
 app = Flask(__name__)
 
-#@app.route('/')
-#def hello():
-#	return "Hello World!"
-
 count = -1
 @app.route("/")
 def get_pongs():
