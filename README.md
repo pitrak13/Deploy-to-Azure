@@ -1,2 +1,3 @@
-# pingpong
-pipeline to Azure
+Auto deploy on push to Azure
+
+https://pp-pong.azurewebsites.net/
