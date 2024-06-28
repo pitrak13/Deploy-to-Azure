@@ -1,4 +1,5 @@
 On push to this repository:
 - Auto deploy to Azure
 
-https://pp-pong.azurewebsites.net/
+Deployment no longer available
+~~https://pp-pong.azurewebsites.net/~~
